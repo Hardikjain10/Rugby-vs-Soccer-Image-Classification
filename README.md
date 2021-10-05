@@ -1,5 +1,6 @@
 # Rugby-vs-Soccer-Image-Classification
-GOAL: The project aims to classify the sports between rugby and soccer.
+Goal: The project aims to classify image of sports between rugby and soccer.           
+Dataset:  The dataset used in this project can be downloaded from [here](https://www.kaggle.com/ligtfeather/football-vs-rugby-image-classification/download)
 
 ## Introduction      
 Convolutional Neural Networks come under the subdomain of Machine Learning which is Deep Learning. Algorithms under Deep Learning process information the same way the human brain does, but obviously on a very small scale, since our brain is too complex (our brain has around 86 billion neurons).          
